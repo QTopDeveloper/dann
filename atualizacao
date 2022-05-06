@@ -1,6 +1,5 @@
-
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "Novo Provedor adicionado!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/QTopDeveloper/dann/main/atualizacao",
   "Sms": "https://raw.githubusercontent.com/QTopDeveloper/dann/main/notificacao",
