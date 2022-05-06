@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.2",
-  "ReleaseNotes": "Novo Provedor adicionado!!!",
+  "Version": "1.0.3",
+  "ReleaseNotes": "Nova configuração da TIM!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/QTopDeveloper/dann/main/atualizacao",
   "Sms": "https://raw.githubusercontent.com/QTopDeveloper/dann/main/notificacao",
   "EmailFeedback": "freedback@qtop.online",
@@ -51,8 +51,8 @@
       "FLAG": "tim",
       "Payload": "GET ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "cdnjs.cloudflare.com",
-      "TlsIP": "104.18.7.80",
-      "ProxyIP": "104.18.7.80",
+      "TlsIP": "104.16.19.94",
+      "ProxyIP": "104.16.19.94",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
