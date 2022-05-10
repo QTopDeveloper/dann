@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.3",
-  "ReleaseNotes": "Nova configuração da TIM!!!",
+  "Version": "1.0.4",
+  "ReleaseNotes": "Nova atualizacao!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/QTopDeveloper/dann/main/atualizacao",
   "Sms": "https://raw.githubusercontent.com/QTopDeveloper/dann/main/notificacao",
   "EmailFeedback": "freedback@qtop.online",
@@ -39,11 +39,11 @@
     {
       "Name": "VIVO 4.5G",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "[app_host]",
-      "TlsIP": "104.18.7.80",
+      "Payload": "GET ssl://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "gedoc.vivo.com.br",
+      "TlsIP": "104.18.6.80",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
